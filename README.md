@@ -1,2 +1,2 @@
-# landingpagee
+# landingpage
 
